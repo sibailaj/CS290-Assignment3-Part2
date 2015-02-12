@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset = "UTF-8">
+  	<title>Assignment 3</title>
+  </head>
+  <body id="bodyId">
+  	<script src="assignment3.js"></script>
+  	<div>Select which page to display:<br>
+  	<select id="sel">
+  	  <option value="1">1</option>
+  	  <option value="2">2</option>
+  	  <option value="3">3</option>
+  	  <option value="4">4</option>
+  	  <option value="5">5</option>
+  	</select>
+  	</div>
+  	<div>Select which languages to display:<br>
+  	  <input name="check" type="checkbox" value="Python">Python</input>
+  	  <input name="check" type="checkbox" value="JSON">JSON</input>
+  	  <input name="check" type="checkbox" value="JavaScript">JavaScript</input>
+  	  <input name="check" type="checkbox" value="SQL">SQL</input>
+  	</div>
+  	<button id="getGists" onclick="getGists();">Get Gists</button>
+    <ul id="results">
+    </ul>
+    <div id="displayFavorites">
+    Favorites:
+    </div>
+  </body>
+</html>

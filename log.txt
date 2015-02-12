@@ -1,0 +1,35 @@
+Start: Sun, 1 Feb 2015 08:30:00 -0800
+End: Sun, 1 Feb 2015 14:00:00 -0800
+Tasks: Coded the "Variables" and "Functions" files for Part 1. Began the "Objects" file.
+
+Start: Sun, 1 Feb 2015 19:30:00 -0800
+End: Sun, 1 Feb 2015 22:30:00 -0800
+Tasks: Finished coding the "Objects" file and done with Part 1.
+
+Start: Sun, 1 Feb 2015 19:30:00 -0800
+End: Mon, 2 Feb 2015 00:30:00 -0800
+Tasks: Began Part 2.
+
+Start: Mon, 2 Feb 2015 18:30:00 -0800
+End: MOn, 2 Feb 2015 23:43:00 -0800
+Tasks: Began implementation of the Ajax call.
+
+Start: Tues, 3 Feb 2015 19:15:00 -0800
+End: Tues, 3 Feb 2015 22:30:00 -0800
+Tasks: Finished Ajax call. In process of figuring out how to parse Gists object.
+
+Start: Wed, 4 Feb 2015 20:05:00 -0800
+End: Thurs, 5 Feb 2015 00:15:00 -0800
+Tasks: HTML dropdown, checkboxes and buttons. Began 'for in' loop implementation.
+
+Start: Mon, 9 Feb 2015 17:30:00 -0800
+End: Tues, 10 Feb 2015 00:00:00 -0800
+Tasks: Created dynamic links and buttons using parsed Gists JSON object.
+
+Start: Tues, 10 Feb 2015 20:00:00 -0800
+End: Wed, 11 Feb 2015 1:00:00 -0800
+Tasks: Began implementation of localStorage. Favorites list not displaying properly.
+
+Start: Wed, 11 Feb 2015 20:30:00 -0800
+End: Wed, 11 Feb 2015 22:30:00 -0800
+Tasks: Finished implementing localStorage to display favorites on page load.
