@@ -128,9 +128,8 @@ function saveFavorite(index) {
 
 	var div = document.createElement("div");
 	var newLink = document.createElement("a");
-	newLink.textContent = parsedRequest[index].description;
-	if (newLink.textContent === "") {newLink.textContent = "No Description Listed";}
-	newLink.href = localStorage.getItem('favorite' + index) + "";
+	newLink.textContent = localStorage.getItem('favorite' + localLength) + "";
+	newLink.href = localStorage.getItem('favorite' + localLength) + "";
 	document.getElementById("displayFavorites").appendChild(div);
 	document.getElementById("displayFavorites").appendChild(newLink);
 }
